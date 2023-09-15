@@ -1,0 +1,7 @@
+E:\WorkForTat\.NetFrameWork\CoreMVCPro\WebAPICoreAug24Assesment\obj\Debug\net7.0\WebAPICoreAug24Assesment.csproj.AssemblyReference.cache
+E:\WorkForTat\.NetFrameWork\CoreMVCPro\WebAPICoreAug24Assesment\obj\Debug\net7.0\WebAPICoreAug24Assesment.GeneratedMSBuildEditorConfig.editorconfig
+E:\WorkForTat\.NetFrameWork\CoreMVCPro\WebAPICoreAug24Assesment\obj\Debug\net7.0\WebAPICoreAug24Assesment.AssemblyInfoInputs.cache
+E:\WorkForTat\.NetFrameWork\CoreMVCPro\WebAPICoreAug24Assesment\obj\Debug\net7.0\WebAPICoreAug24Assesment.AssemblyInfo.cs
+E:\WorkForTat\.NetFrameWork\CoreMVCPro\WebAPICoreAug24Assesment\obj\Debug\net7.0\WebAPICoreAug24Assesment.csproj.CoreCompileInputs.cache
+E:\WorkForTat\.NetFrameWork\CoreMVCPro\WebAPICoreAug24Assesment\obj\Debug\net7.0\WebAPICoreAug24Assesment.MvcApplicationPartsAssemblyInfo.cs
+E:\WorkForTat\.NetFrameWork\CoreMVCPro\WebAPICoreAug24Assesment\obj\Debug\net7.0\WebAPICoreAug24Assesment.MvcApplicationPartsAssemblyInfo.cache

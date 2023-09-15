@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dteys5xzOtQq0ZYJjdQkdYlpvvMRPBUhBIAoOAYpcMQ=",
+  "Source": "UseJwtAuthentication",
+  "BasePath": "_content/UseJwtAuthentication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
