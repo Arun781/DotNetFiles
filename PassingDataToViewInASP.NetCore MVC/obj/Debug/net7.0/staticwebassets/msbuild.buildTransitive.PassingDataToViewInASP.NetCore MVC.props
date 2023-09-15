@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PassingDataToViewInASP.NetCore MVC.props" />
+</Project>

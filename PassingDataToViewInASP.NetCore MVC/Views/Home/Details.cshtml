@@ -1,0 +1,29 @@
+﻿
+@* @{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+ *@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <h3>@ViewBag["PageTitle"]</h3>
+    <div></div>
+
+    <div>@Model.Id</div>
+    <div>
+        Name : @Model.Name
+    </div>
+
+    <div>
+        Address : @Model.Address
+    </div>
+</body>
+</html>

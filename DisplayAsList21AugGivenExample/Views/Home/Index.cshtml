@@ -1,0 +1,30 @@
+﻿@model List<DisplayAsList21AugGivenExample.Models.Students>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    
+    <table border="1" style="color:darkblue;background-color:aliceblue"><tr><th>St-Id</th><th>St-Name</th><th>St-Address</th></tr>
+    <tr></tr>
+    @foreach (var item in Model)
+    {
+        <tr><td>@item.Id</td><td>@item.Name</td><td>@item.Address</td></tr>
+    }
+
+    </table>
+
+</body>
+</html>

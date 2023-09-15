@@ -1,0 +1,26 @@
+﻿@model DisplayAsList21AugGivenExample.ViewModels.StudentViewModel
+@{
+    ViewData["Title"] = "Details3";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+</head>
+<body>
+    <h3>@Model.pageTitle</h3>
+    <div></div>
+
+    <div>@Model.students.Id</div>
+    <div>
+        Name : @Model.students.Name
+    </div>
+
+    <div>
+        Address : @Model.students.Address
+    </div>
+</body>
+</html>
