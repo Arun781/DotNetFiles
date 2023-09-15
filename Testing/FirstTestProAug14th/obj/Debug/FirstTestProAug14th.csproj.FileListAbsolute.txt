@@ -1,0 +1,6 @@
+E:\WorkForTat\.NetFrameWork\Testing\FirstTestProAug14th\bin\Debug\FirstTestProAug14th.dll
+E:\WorkForTat\.NetFrameWork\Testing\FirstTestProAug14th\bin\Debug\FirstTestProAug14th.pdb
+E:\WorkForTat\.NetFrameWork\Testing\FirstTestProAug14th\obj\Debug\FirstTestProAug14th.csproj.AssemblyReference.cache
+E:\WorkForTat\.NetFrameWork\Testing\FirstTestProAug14th\obj\Debug\FirstTestProAug14th.csproj.CoreCompileInputs.cache
+E:\WorkForTat\.NetFrameWork\Testing\FirstTestProAug14th\obj\Debug\FirstTestProAug14th.dll
+E:\WorkForTat\.NetFrameWork\Testing\FirstTestProAug14th\obj\Debug\FirstTestProAug14th.pdb

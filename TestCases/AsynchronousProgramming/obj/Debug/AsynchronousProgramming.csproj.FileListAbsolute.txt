@@ -1,0 +1,7 @@
+E:\WorkForTat\.NetFrameWork\TestCases\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.csproj.AssemblyReference.cache
+E:\WorkForTat\.NetFrameWork\TestCases\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.csproj.CoreCompileInputs.cache
+E:\WorkForTat\.NetFrameWork\TestCases\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.exe.config
+E:\WorkForTat\.NetFrameWork\TestCases\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.exe
+E:\WorkForTat\.NetFrameWork\TestCases\AsynchronousProgramming\bin\Debug\AsynchronousProgramming.pdb
+E:\WorkForTat\.NetFrameWork\TestCases\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.exe
+E:\WorkForTat\.NetFrameWork\TestCases\AsynchronousProgramming\obj\Debug\AsynchronousProgramming.pdb
